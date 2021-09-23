@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNRUAxeKvB3VySfr2zN0wAEys0MA6atzTdHwxHNtu3lQmDLmKeWddO1qHzVBIpxDEygvVXS0KV3X1Koc+sG63g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERGIO\\source\\repos\\MultiplicacionSS\\MultiplicacionSS\\MultiplicacionSS.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERGIO\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

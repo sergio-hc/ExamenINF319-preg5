@@ -1,5 +1,7 @@
 ﻿// Learn more about F# at http://fsharp.org
 
+//AUTOR:  Sergio Luis Huanca Cuellar
+//INF 319
 open System
 
 // varible del resultado 
